@@ -1,0 +1,13 @@
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\bin\Debug\netcoreapp3.1\SDETTechInterview.exe
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\bin\Debug\netcoreapp3.1\SDETTechInterview.deps.json
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\bin\Debug\netcoreapp3.1\SDETTechInterview.runtimeconfig.json
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\bin\Debug\netcoreapp3.1\SDETTechInterview.runtimeconfig.dev.json
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\bin\Debug\netcoreapp3.1\SDETTechInterview.dll
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\bin\Debug\netcoreapp3.1\SDETTechInterview.pdb
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\obj\Debug\netcoreapp3.1\SDETTechInterview.csprojAssemblyReference.cache
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\obj\Debug\netcoreapp3.1\SDETTechInterview.AssemblyInfoInputs.cache
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\obj\Debug\netcoreapp3.1\SDETTechInterview.AssemblyInfo.cs
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\obj\Debug\netcoreapp3.1\SDETTechInterview.csproj.CoreCompileInputs.cache
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\obj\Debug\netcoreapp3.1\SDETTechInterview.dll
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\obj\Debug\netcoreapp3.1\SDETTechInterview.pdb
+C:\Users\Tech Jargon\source\repos\SDETTechInterview\SDETTechInterview\obj\Debug\netcoreapp3.1\SDETTechInterview.genruntimeconfig.cache
